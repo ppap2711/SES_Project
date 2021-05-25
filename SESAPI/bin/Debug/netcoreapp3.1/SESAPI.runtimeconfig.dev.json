@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/cortana/.dotnet/store/|arch|/|tfm|",
+      "/Users/cortana/.nuget/packages"
+    ]
+  }
+}
